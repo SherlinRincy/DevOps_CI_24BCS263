@@ -33,4 +33,4 @@ This project demonstrates version control and continuous integration using Git, 
 
 ## Feature Update
 
-The login application supports secure credential validation.
+The login application provides secure login validation.
