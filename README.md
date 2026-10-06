@@ -30,3 +30,10 @@ mvn test
 ## DevOps Workflow
 
 This project demonstrates version control and continuous integration using Git, GitHub and Jenkins.
+
+## Feature Update
+
+The login application provides secure login validation.
+## Feature Enhancement
+
+The application now provides improved user login validation.
