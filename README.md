@@ -27,3 +27,6 @@ mvn clean compile
 ```sh
 mvn test
 ```
+## DevOps Workflow
+
+This project demonstrates version control and continuous integration using Git, GitHub and Jenkins.
